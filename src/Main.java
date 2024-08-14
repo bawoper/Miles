@@ -2,11 +2,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-        int TicketPrice = 687;
-        int Bonusdrop = 20;
-        int Miles = TicketPrice / Bonusdrop;
+        int ticketprice = 687;
+        int bonusdrop = 20;
+        int miles = ticketprice / bonusdrop;
 
 
-        System.out.println(Miles + "_Miles");
+        System.out.println(miles + "_Miles");
     }
 }
